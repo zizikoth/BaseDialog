@@ -16,6 +16,7 @@ import com.memo.dialog.BaseDialog
  * Talk is cheap, Show me the code.
  */
 class AdDialog : BaseDialog() {
+
     /*** 绑定布局 ***/
     override fun bindLayout(): Int = R.layout.ad_dialog
 
