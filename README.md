@@ -1,1 +1,5 @@
 # BaseDialog
+
+抽取BaseDialogFragment
+
+每一个Dialog都继承BaseDialog，进行Dialog的各种配置
