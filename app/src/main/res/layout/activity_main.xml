@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/mBtnAlert"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="AlertDialog"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/mBtnBottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="BottomDialog"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/mBtnAd"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="AdDialog"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/mBtnLoad"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="LoadDialog"
+        android:textSize="15sp" />
+</LinearLayout>
