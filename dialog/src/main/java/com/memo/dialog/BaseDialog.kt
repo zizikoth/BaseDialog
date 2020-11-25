@@ -13,8 +13,8 @@ import androidx.fragment.app.FragmentManager
 import androidx.lifecycle.LifecycleObserver
 
 /**
- * title:
- * describe:
+ * title:BaseDialog
+ * describe:创建Dialog继承BaseDialog，进行配置
  *
  * @author memo
  * @date 2020-11-23 11:25 AM
